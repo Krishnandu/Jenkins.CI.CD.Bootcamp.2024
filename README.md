@@ -67,7 +67,7 @@ If you want to contribute to this project, follow the guidelines outlined in the
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## TUTORIAL - REFERENCE
+## Tutorial - Reference
 
 #### Jenkins, Pipeline, Groovy for DevOps Automation using Jenkins CI/CD Pipeline with DSLs with Just One Course!
 
